@@ -1,0 +1,4 @@
+D:\Workspace\KillSX\KillSX\bin\Debug\KillSX.exe
+D:\Workspace\KillSX\KillSX\bin\Debug\KillSX.pdb
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.exe
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.pdb
